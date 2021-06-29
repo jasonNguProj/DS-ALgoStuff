@@ -7,7 +7,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Amazon {
-
+// box optimize question
 	public static Set<Integer> findSet(int[] arr) {
 		long totalSum = 0;
 		int aSum = 0;
